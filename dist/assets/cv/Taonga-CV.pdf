@@ -1,0 +1,349 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 3179 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+50 780 Td
+(Taonga) Tj
+T*
+(Computer Science graduate researcher, full-stack developer, and AI/ML practitioner) Tj
+T*
+(Zambia / China professional background) Tj
+T*
+() Tj
+T*
+(Professional Summary) Tj
+T*
+(Computer Science professional with a Bachelor's degree in Computer Science and Technology and) Tj
+T*
+(ongoing Master's research in AI and Machine Learning. Experienced in building web, mobile, and) Tj
+T*
+(WeChat Mini Program applications, teaching Python, coordinating multilingual teams, and) Tj
+T*
+(translating technical communication across English, Chinese, and Nyanja.) Tj
+T*
+() Tj
+T*
+(Computer Science Focus) Tj
+T*
+(Primary professional focus: software development, AI and Machine Learning research, full-stack) Tj
+T*
+(application building, and technical education. Strongest work includes student productivity) Tj
+T*
+(tools, e-commerce, bilingual accessibility applications, and AI/ML research foundations.) Tj
+T*
+(- AI and Machine Learning research with experience in neural networks, CNNs, RNNs,) Tj
+T*
+(Transformers, time-series prediction, wind forecasting, data preprocessing, model evaluation,) Tj
+T*
+(hyperparameter tuning, GPU training, data cleaning, data visualization, and statistical) Tj
+T*
+(analysis.) Tj
+T*
+(- Full-stack and frontend development across HTML5, CSS3, React, TypeScript, Vite, Java,) Tj
+T*
+(Django, MySQL, and database-backed application design.) Tj
+T*
+(- Mobile and mini-program development using Flutter, Dart, Material Design, local storage, and) Tj
+T*
+(WeChat Mini Program technologies.) Tj
+T*
+(- Technical teaching and mentoring through beginner Python instruction for children and) Tj
+T*
+(students with different learning needs.) Tj
+T*
+() Tj
+T*
+(Technical Skills) Tj
+T*
+(Programming Languages: Python, Java, C#, Dart, TypeScript, HTML5, CSS3) Tj
+T*
+(AI and Machine Learning: PyTorch, Neural Networks, CNNs, RNNs, Transformers, Time-series) Tj
+T*
+(prediction, Wind forecasting, Model evaluation, GPU training, Ollama, Local LLMs) Tj
+T*
+(Web Development: React, Vite, Django, HTML5, CSS3, MySQL, Session management, Database) Tj
+T*
+(integration) Tj
+T*
+(Mobile and Mini Programs: Flutter, Dart, Material Design, Widgets, Navigation, Local storage,) Tj
+T*
+(WeChat Mini Programs, WXML, WXSS) Tj
+T*
+(Developer Tools: Git, VS Code, PyCharm, Linux, Figma, Notion) Tj
+T*
+() Tj
+T*
+(Featured Projects) Tj
+T*
+(Study Tracker and Exam Planning Web App) Tj
+T*
+(Student productivity platform. A web app for tracking study time, subjects, goals, and exam) Tj
+T*
+(preparation. Includes a study calculator that estimates needed study hours from page count,) Tj
+T*
+(average words per page, material difficulty, and time remaining.) Tj
+T*
+(Role: Conceived the product, designed workflows, developed the frontend interface, implemented) Tj
+T*
+(tracking and calculator features, tested and refined functionality, and used AI tools while) Tj
+T*
+(validating generated code.) Tj
+T*
+(Achievement: Combined educational planning and software engineering into a practical) Tj
+T*
+(productivity tool for students.) Tj
+T*
+(Technologies: React, TypeScript, Vite, HTML5, CSS3, OpenAI Codex, ChatGPT) Tj
+T*
+() Tj
+T*
+(Canteen Recommendation System) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3059 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+50 780 Td
+(Bilingual campus accessibility app. A bilingual English-Chinese food recommendation system) Tj
+T*
+(built as a WeChat Mini Program to help foreign students understand available meals.) Tj
+T*
+(Role: Led project planning, coordinated a four-member team, delegated responsibilities,) Tj
+T*
+(assisted development, designed bilingual functionality, and tested the application.) Tj
+T*
+(Achievement: Won 2nd Place in an Innovations in IT Software Programming Competition.) Tj
+T*
+(Technologies: WeChat Mini Program, WXML, WXSS) Tj
+T*
+() Tj
+T*
+(Online Cupcake E-Commerce Website) Tj
+T*
+(Full-stack web commerce project. A modern e-commerce platform where customers can browse) Tj
+T*
+(cupcakes, view product information, add items to a cart, and place orders online.) Tj
+T*
+(Role: Designed and developed the frontend, built responsive interfaces, implemented product) Tj
+T*
+(browsing and shopping cart functionality, connected the frontend with backend/database logic,) Tj
+T*
+(and improved UI/UX through testing.) Tj
+T*
+(Achievement: Delivered a complete online ordering platform and strengthened full-stack) Tj
+T*
+(development and user-centered design skills.) Tj
+T*
+(Technologies: HTML, CSS, Java, Database integration) Tj
+T*
+() Tj
+T*
+(Task and Project Management Application) Tj
+T*
+(Flutter productivity app. A mobile application for organizing tasks and projects through a) Tj
+T*
+(dashboard-style interface.) Tj
+T*
+(Role: Designed the app interface, built task management features, developed project) Tj
+T*
+(organization workflows, implemented user interactions, and tested functionality.) Tj
+T*
+(Achievement: Strengthened project management, agile planning, team communication, delegation,) Tj
+T*
+(and feature prioritization skills.) Tj
+T*
+(Technologies: Dart, Flutter, Material Design) Tj
+T*
+() Tj
+T*
+(Online Business Management System) Tj
+T*
+(Inventory management system. A web-based business management system for inventory tracking and) Tj
+T*
+(operational visibility.) Tj
+T*
+(Role: Developed application features using Django and web development technologies.) Tj
+T*
+(Achievement: Applied backend web development and inventory management concepts.) Tj
+T*
+(Technologies: Django, HTML, CSS) Tj
+T*
+() Tj
+T*
+(Experience) Tj
+T*
+(Translator / Assistant Manager, Grading Department | Twyford International - Keda Ceramics |) Tj
+T*
+(2026-Present) Tj
+T*
+(- Supervise and coordinate warehouse grading personnel, including teams of more than 50) Tj
+T*
+(employees.) Tj
+T*
+(- Translate operational instructions and workplace communication between Chinese, English, and) Tj
+T*
+(Nyanja.) Tj
+T*
+(- Inspect and grade ceramic tiles, identify defects, perform measurements, and support quality) Tj
+T*
+(standards.) Tj
+T*
+(- Perform data entry using SAP Logon and maintain departmental records, reports, and) Tj
+T*
+(documentation.) Tj
+T*
+(- Serve as a departmental safety representative and help address health, safety, equipment,) Tj
+T*
+(HR, and workflow issues.) Tj
+T*
+() Tj
+T*
+(Python Teacher | Teaching Kids Python, Freelancer | 2024-Present) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2678 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+50 780 Td
+(- Plan and deliver beginner Python lessons using age-appropriate explanations and exercises.) Tj
+T*
+(- Guide students through coding projects and adapt lessons to different learning styles and) Tj
+T*
+(skill levels.) Tj
+T*
+(- Encourage logical thinking, problem solving, confidence, and constructive learning habits.) Tj
+T*
+() Tj
+T*
+(Publicity Minister, Graphic Designer and Social Media Coordinator | Association of Zambian) Tj
+T*
+(Students in China | 2023-2024) Tj
+T*
+(- Designed promotional materials for student events, campaigns, announcements, and) Tj
+T*
+(organizational activities.) Tj
+T*
+(- Managed social media presence and coordinated publicity strategy with executive committee) Tj
+T*
+(members.) Tj
+T*
+(- Improved consistency and professionalism across public communications for Zambian students) Tj
+T*
+(in China.) Tj
+T*
+() Tj
+T*
+(TikTok Livestream Anchor | Kureiji Anime Collectors | 2025) Tj
+T*
+(- Hosted live TikTok shopping streams for audiences in the United States.) Tj
+T*
+(- Presented anime trading cards and collectibles, answered customer questions, and maintained) Tj
+T*
+(viewer engagement.) Tj
+T*
+(- Helped increase TikTok store sales by 72% within one month.) Tj
+T*
+() Tj
+T*
+(ESL Teacher and Private Tutor | KinderHouse, Nanjing Xinxin Engineering University, Beida) Tj
+T*
+(Jingxue Affiliated Experimental Kindergarten, Yilin Education, Private Tutoring | 2022-Present) Tj
+T*
+(- Taught English as a second language to Chinese students aged 2-15 in classroom and) Tj
+T*
+(one-on-one settings.) Tj
+T*
+(- Planned engaging lessons, adapted instruction to student progress, and communicated with) Tj
+T*
+(Chinese staff and parents.) Tj
+T*
+(- Used ESL resources including Power Up, Get Set Go, Oxford Phonics World, and Hello Giraffe.) Tj
+T*
+() Tj
+T*
+(Education) Tj
+T*
+(Master's in Computer Science and Technology | Nanjing University of Information Science and) Tj
+T*
+(Technology | 2023-2026) Tj
+T*
+(- Current research in AI and Machine Learning) Tj
+T*
+(- Current GPA: 3.55) Tj
+T*
+(Bachelor's in Computer Science and Technology | Henan University of Urban Construction |) Tj
+T*
+(2019-2023) Tj
+T*
+(- Completed with cumulative GPA: 3.52) Tj
+T*
+() Tj
+T*
+(Certifications and Recognition) Tj
+T*
+(- Coursera: Use Canva to Design Digital Course Collateral) Tj
+T*
+(- Recommendation letter from the Ambassador of the Embassy of the Republic of Zambia in China) Tj
+T*
+(for service in AZSIC) Tj
+T*
+() Tj
+T*
+(Languages) Tj
+T*
+(English: Native speaker) Tj
+T*
+(Chinese: HSK4; technical discussions, classroom communication, document translation,) Tj
+T*
+(presentations, and Chinese-language teaching contexts) Tj
+T*
+(Nyanja: Zambian language) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000003428 00000 n 
+0000003554 00000 n 
+0000006665 00000 n 
+0000006791 00000 n 
+0000009521 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+9647
+%%EOF

@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Taonga | Computer Science Portfolio</title>
+    <meta name="description" content="Computer Science portfolio for Taonga, featuring AI and Machine Learning research, full-stack development projects, teaching experience, multilingual communication, and creative work.">
+    <meta property="og:title" content="Taonga | Computer Science Portfolio">
+    <meta property="og:description" content="AI/ML research, full-stack development, teaching, multilingual communication, and creative work.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://taonga-cs-portfolio.spry-gem-9457.chatgpt.site/">
+    <meta property="og:image" content="assets/site-preview.svg">
+    <link rel="canonical" href="https://taonga-cs-portfolio.spry-gem-9457.chatgpt.site/">
+    <meta name="theme-color" content="#0f766e">
+    <link rel="stylesheet" href="styles.css">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Taonga",
+        "jobTitle": "Computer Science graduate researcher and full-stack developer",
+        "knowsAbout": [
+          "Computer Science",
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Full-stack development",
+          "Python",
+          "Django",
+          "React",
+          "Flutter",
+          "WeChat Mini Programs"
+        ],
+        "alumniOf": [
+          "Henan University of Urban Construction",
+          "Nanjing University of Information Science and Technology"
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header" data-header>
+      <nav class="nav-shell" aria-label="Primary navigation">
+        <a class="brand" href="#top" aria-label="Taonga home">
+          <span class="brand-mark" aria-hidden="true">T</span>
+          <span>Taonga</span>
+        </a>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-menu">
+          <span class="menu-toggle__bar" aria-hidden="true"></span>
+          <span class="sr-only">Menu</span>
+        </button>
+        <div class="nav-links" id="site-menu">
+          <a href="#about">About</a>
+          <a href="#cs">Computer Science</a>
+          <a href="#projects">Projects</a>
+          <a href="#experience">Experience</a>
+          <a href="#creative">Photography</a>
+          <a href="#education">Education</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="hero" id="top" aria-labelledby="hero-title">
+        <div class="hero__content">
+          <p class="eyebrow">Computer Science Portfolio</p>
+          <h1 id="hero-title" data-field="name">Taonga</h1>
+          <p class="hero__headline" data-field="headline"></p>
+          <p class="hero__summary" data-field="summary"></p>
+          <div class="hero__meta" data-contact-strip></div>
+          <div class="hero__actions">
+            <a class="button button--primary" data-cv-link href="assets/cv/Taonga-CV.pdf" download>Download My CV</a>
+            <a class="button button--secondary" href="#projects">View My Work</a>
+          </div>
+        </div>
+        <div class="hero__visual" aria-label="Professional focus overview">
+          <div class="signal-card signal-card--main">
+            <span class="signal-card__label">Primary focus</span>
+            <strong>AI/ML + Full-stack Development</strong>
+          </div>
+          <div class="signal-grid" aria-hidden="true">
+            <span>Python</span>
+            <span>React</span>
+            <span>Django</span>
+            <span>Flutter</span>
+            <span>PyTorch</span>
+            <span>WeChat</span>
+          </div>
+          <div class="metric-strip">
+            <div>
+              <strong>2nd</strong>
+              <span>IT software competition placement</span>
+            </div>
+            <div>
+              <strong>72%</strong>
+              <span>TikTok store sales lift supported</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section--intro" id="about" aria-labelledby="about-title">
+        <div class="section__header">
+          <p class="eyebrow">About</p>
+          <h2 id="about-title">Software, learning, and cross-cultural communication</h2>
+        </div>
+        <div class="about-grid">
+          <p>
+            I am fascinated by the technology industry, and that curiosity drives me to learn how software works from the inside out. My Computer Science path spans university research, application development, teaching, and practical problem-solving across multilingual environments.
+          </p>
+          <p>
+            I studied in China for more than six years, built apps and websites as a full-stack developer, and continue to grow through AI, Machine Learning, and tools that help people organize, learn, and communicate.
+          </p>
+        </div>
+      </section>
+
+      <section class="section" id="cs" aria-labelledby="cs-title">
+        <div class="section__header">
+          <p class="eyebrow">Computer Science</p>
+          <h2 id="cs-title">Technical profile</h2>
+          <p data-cs-summary></p>
+        </div>
+        <div class="strength-list" data-strengths></div>
+        <div class="skill-groups" data-skill-groups></div>
+      </section>
+
+      <section class="section section--projects" id="projects" aria-labelledby="projects-title">
+        <div class="section__header">
+          <p class="eyebrow">Featured Projects</p>
+          <h2 id="projects-title">Applied CS work</h2>
+          <p>Selected projects prioritized around Computer Science, practical problem solving, and real users.</p>
+        </div>
+        <div class="project-grid" data-projects></div>
+      </section>
+
+      <section class="section" id="experience" aria-labelledby="experience-title">
+        <div class="section__header">
+          <p class="eyebrow">Experience</p>
+          <h2 id="experience-title">Professional timeline</h2>
+        </div>
+        <div class="timeline" data-experience></div>
+      </section>
+
+      <section class="section section--creative" id="creative" aria-labelledby="creative-title">
+        <div class="section__header">
+          <p class="eyebrow">Photography and Creative Work</p>
+          <h2 id="creative-title">Visual, audio, and performance practice</h2>
+          <p data-creative-summary></p>
+        </div>
+        <div class="creative-list" data-creative-items></div>
+        <div class="gallery" data-gallery hidden></div>
+      </section>
+
+      <section class="section" id="education" aria-labelledby="education-title">
+        <div class="section__header">
+          <p class="eyebrow">Education and Certifications</p>
+          <h2 id="education-title">Academic foundation</h2>
+        </div>
+        <div class="education-grid">
+          <div class="stack" data-education></div>
+          <aside class="panel">
+            <h3>Certifications and recognition</h3>
+            <ul data-certifications></ul>
+            <h3>Languages</h3>
+            <ul data-languages></ul>
+          </aside>
+        </div>
+      </section>
+
+      <section class="section section--additional" id="additional" aria-labelledby="additional-title">
+        <div class="section__header">
+          <p class="eyebrow">Additional Strengths</p>
+          <h2 id="additional-title">Transferable skills and interests</h2>
+        </div>
+        <div class="additional-grid" data-additional></div>
+      </section>
+
+      <section class="section section--contact" id="contact" aria-labelledby="contact-title">
+        <div class="contact-card">
+          <div>
+            <p class="eyebrow">Contact</p>
+            <h2 id="contact-title">Let's connect</h2>
+            <p data-contact-message></p>
+          </div>
+          <div class="contact-links" data-contact-links></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>&copy; <span data-year></span> Taonga</span>
+      <a href="#top">Back to top</a>
+    </footer>
+
+    <script src="data/portfolio-data.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
