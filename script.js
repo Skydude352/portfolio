@@ -40,7 +40,7 @@
 
   const contactStrip = $("[data-contact-strip]");
   const contactLinks = $("[data-contact-links]");
-  const contactItems = [
+  const topContactItems = [
     hasValue(data.contact.linkedin) && { label: "LinkedIn", href: data.contact.linkedin },
     hasValue(data.contact.github) && { label: "GitHub", href: data.contact.github },
     hasValue(data.contact.email) && { label: "Email", href: `mailto:${data.contact.email}` },
@@ -48,15 +48,29 @@
     hasValue(data.contact.location) && { label: data.contact.location }
   ].filter(Boolean);
 
-  contactItems.forEach((item) => {
+  topContactItems.forEach((item) => {
     const node = item.href ? make("a", "meta-pill", item.label) : make("span", "meta-pill", item.label);
     if (item.href) node.href = item.href;
-    contactStrip.append(node.cloneNode(true));
+    contactStrip.append(node);
+  });
+
+  const bottomContactItems = [
+    { label: "LinkedIn", value: data.contact.linkedin, href: data.contact.linkedin, placeholder: "LinkedIn placeholder" },
+    { label: "Email", value: data.contact.email, href: hasValue(data.contact.email) ? `mailto:${data.contact.email}` : "", placeholder: "Email placeholder" },
+    { label: "Phone", value: data.contact.phone, href: hasValue(data.contact.phone) ? `tel:${data.contact.phone.replace(/\s+/g, "")}` : "", placeholder: "Phone number placeholder" },
+    { label: "Address", value: data.contact.address, href: "", placeholder: "Address placeholder" }
+  ];
+
+  bottomContactItems.forEach((item) => {
+    const hasLink = hasValue(item.href);
+    const hasText = hasValue(item.value);
+    const node = hasLink ? make("a", "meta-pill", `${item.label}: ${item.value}`) : make("span", "meta-pill meta-pill--placeholder", `${item.label}: ${hasText ? item.value : item.placeholder}`);
+    if (hasLink) node.href = item.href;
     contactLinks.append(node);
   });
 
   const contactMessage = $("[data-contact-message]");
-  const directContactCount = contactItems.filter((item) => item.href).length;
+  const directContactCount = bottomContactItems.filter((item) => hasValue(item.href)).length;
   contactMessage.textContent = directContactCount
     ? "Available for Computer Science, AI/ML, software development, teaching, translation, and creative collaboration opportunities."
     : "Professional contact links have not been supplied yet. Add email, phone, LinkedIn, or GitHub in data/portfolio-data.js when ready.";

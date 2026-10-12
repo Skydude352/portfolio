@@ -19,7 +19,7 @@ Edit `data/portfolio-data.js`.
 Use the top-level sections for:
 
 - `personal` - name, headline, summary, location, and CV path.
-- `contact` - email, phone, LinkedIn, GitHub, and location.
+- `contact` - email, phone, LinkedIn, GitHub, address, and location.
 - `computerScience` - summary, strengths, skills, and relevant coursework.
 - `projects` - featured CS projects.
 - `experience` - professional roles.

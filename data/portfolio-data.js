@@ -10,6 +10,7 @@ window.portfolioData = {
   contact: {
     email: "",
     phone: "",
+    address: "",
     linkedin: "",
     github: "",
     location: "Zambia / China professional background"
