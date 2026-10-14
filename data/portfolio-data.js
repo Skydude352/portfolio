@@ -1,17 +1,17 @@
 window.portfolioData = {
   personal: {
-    name: "Taonga",
+    name: "Taonga Nyirenda",
     headline: "Computer Science graduate researcher, full-stack developer, and AI/ML practitioner",
     location: "Zambia / China professional background",
     summary:
-      "Computer Science professional with a Bachelor's degree in Computer Science and Technology and ongoing Master's research in AI and Machine Learning. Experienced in building web, mobile, and WeChat Mini Program applications, teaching Python, coordinating multilingual teams, and translating technical communication across English, Chinese, and Nyanja.",
+      "Computer Science professional with a Bachelor's and Master's degree in Computer Science and Technology with research in AI and Machine Learning. Experienced in building web, mobile, and WeChat Mini Program applications, teaching Python, coordinating multilingual teams, and translating technical communication across English, Chinese, and Nyanja.",
     cvPath: "assets/cv/Taonga-CV.pdf"
   },
   contact: {
-    email: "",
-    phone: "",
-    address: "",
-    linkedin: "",
+    email: "taonganyirenda352@outlook.com",
+    phone: "+260772858387",
+    address: "Chamba Valley, Lusaka, Zambia",
+    linkedin: "https://linkedin.com/in/taonga-nyirenda352",
     github: "",
     location: "Zambia / China professional background"
   },
@@ -214,18 +214,19 @@ window.portfolioData = {
       institution: "Nanjing University of Information Science and Technology",
       qualification: "Master's in Computer Science and Technology",
       period: "2023-2026",
-      details: ["Current research in AI and Machine Learning", "Current GPA: 3.55"]
+      details: ["Did research in AI and Machine Learning", "Current GPA: 3.55", "Nanjing, Jiangsu Province, China"]
     },
     {
       institution: "Henan University of Urban Construction",
       qualification: "Bachelor's in Computer Science and Technology",
       period: "2019-2023",
-      details: ["Completed with cumulative GPA: 3.52"]
+      details: ["Completed with cumulative GPA: 3.52", "Pingdingshan, Henan Province, China"]
     }
   ],
   certifications: [
     "Coursera: Use Canva to Design Digital Course Collateral",
-    "Recommendation letter from the Ambassador of the Embassy of the Republic of Zambia in China for service in AZSIC"
+    "Recommendation letter from the Ambassador of the Embassy of the Republic of Zambia in China for service in AZSIC",
+    "Certificate of service from Twyford International - Keda Ceramics"
   ],
   languages: [
     {

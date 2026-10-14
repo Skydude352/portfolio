@@ -335,7 +335,9 @@ h3 {
 
 .profile-placeholder {
   display: grid;
-  grid-template-columns: 104px minmax(0, 1fr);
+  place-items: center;
+  /* grid-template-columns: 208px minmax(0, 1fr); */
+  /* grid-template-rows: 208px minmax(0, 1fr); */
   align-items: center;
   gap: 1rem;
   border: 1px dashed rgba(37, 99, 235, 0.45);
@@ -365,6 +367,15 @@ h3 {
 
 .profile-placeholder small {
   color: var(--muted);
+}
+
+.profile-photo {
+  width: 208px;
+  height: 208px;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid rgba(37, 99, 235, 0.35);
 }
 
 .signal-card strong {
