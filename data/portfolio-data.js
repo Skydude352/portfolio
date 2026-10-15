@@ -1,7 +1,7 @@
 window.portfolioData = {
   personal: {
     name: "Taonga Nyirenda",
-    headline: "Computer Science graduate researcher, full-stack developer, and AI/ML practitioner",
+    headline: "Computer Science graduate researcher, full-stack developer, Assistant Manager and AI/ML practitioner",
     location: "Zambia / China professional background",
     summary:
       "Computer Science professional with a Bachelor's and Master's degree in Computer Science and Technology with research in AI and Machine Learning. Experienced in building web, mobile, and WeChat Mini Program applications, teaching Python, coordinating multilingual teams, and translating technical communication across English, Chinese, and Nyanja.",
