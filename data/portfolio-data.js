@@ -10,10 +10,10 @@ window.portfolioData = {
   contact: {
     email: "taonganyirenda352@outlook.com",
     phone: "+260772858387",
-    address: "Chamba Valley, Lusaka, Zambia",
+    address: "Lusaka, Zambia",
     linkedin: "https://linkedin.com/in/taonga-nyirenda352",
     github: "",
-    location: "Zambia / China professional background"
+    location: "Lusaka, Zambia (with experience in China)"
   },
   computerScience: {
     summary:
@@ -224,9 +224,9 @@ window.portfolioData = {
     }
   ],
   certifications: [
-    "Coursera: Use Canva to Design Digital Course Collateral",
     "Recommendation letter from the Ambassador of the Embassy of the Republic of Zambia in China for service in AZSIC",
-    "Certificate of service from Twyford International - Keda Ceramics"
+    "Certificate of service from Twyford International - Keda Ceramics",
+    "Coursera: Use Canva to Design Digital Course Collateral"
   ],
   languages: [
     {
@@ -257,10 +257,23 @@ window.portfolioData = {
   },
   additional: [
     {
-      name: "Leadership and Teamwork",
+      name: "Assistant Management & Operations",
       items: [
-        "Led a four-person development team for the Canteen Recommendation System.",
-        "Experienced in project coordination, delegation, event promotion, and community leadership."
+        "Supervise and coordinate grading personnel, including teams of more than 50 employees.",
+        "Help communicate priorities and operational instructions between management and frontline employees across Chinese, English, and Nyanja.",
+        "Support daily workflow coordination, product quality checks, recordkeeping, and problem escalation.",
+        "Serve as a departmental safety representative and report equipment faults or workplace concerns to relevant personnel.",
+        "Receive employee concerns and work with HR or other relevant colleagues to support follow-up and resolution.",
+        "Coordinate with safety, maintenance, HR, and operations personnel as issues arise."
+      ]
+    },
+    {
+      name: "Leadership, Project Coordination & Teamwork",
+      items: [
+        "Led project planning and coordinated a four-person development team for the Canteen Recommendation System.",
+        "Delegated project responsibilities and supported collaboration toward a shared delivery goal.",
+        "Coordinated publicity activities with executive committee members at AZSIC.",
+        "Experienced in helping organize tasks, communicate expectations, monitor progress, and address practical issues."
       ]
     },
     {

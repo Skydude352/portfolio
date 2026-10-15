@@ -72,7 +72,7 @@
   const contactMessage = $("[data-contact-message]");
   const directContactCount = bottomContactItems.filter((item) => hasValue(item.href)).length;
   contactMessage.textContent = directContactCount
-    ? "Available for Computer Science, AI/ML, software development, teaching, translation, and creative collaboration opportunities."
+    ? "Available for Computer Science, AI/ML, software development, teaching, translation, management and creative collaboration opportunities."
     : "Professional contact links have not been supplied yet. Add email, phone, LinkedIn, or GitHub in data/portfolio-data.js when ready.";
 
   const strengthsRoot = $("[data-strengths]");
